@@ -6,20 +6,20 @@ export default function Footer() {
     <footer className="bg-white border-y">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div className="md:flex md:justify-between">
-          <div className="mb-6 md:mb-0 flex flex-row">
-            
+          <div className="mb-6 md:mb-0 flex justify-center items-center flex-row">
+            <img src="./logo.jpeg" alt="logo" className="w-72 h-72 mt-4 " />
           </div>
           <div className="flex flex-col gap-3 w-96">
             <h1 className="text-lg font-semibold text-gray-800 mb-4">
               Contacts
             </h1>
             <div className="flex gap-3 items-center texxt-black">
-            <svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="M24 4c-7.73 0-14 6.27-14 14 0 10.5 14 26 14 26s14-15.5 14-26c0-7.73-6.27-14-14-14zm0 19c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/><path d="M0 0h48v48h-48z" fill="none"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 100 100" id="location"><g><path d="M50 8C34.6 8 22 20.4 22 35.7c0 32.6 25.6 54.9 26.7 55.9.7.6 1.9.6 2.6 0 1.1-1 26.7-23.4 26.7-55.9C78 20.4 65.4 8 50 8zm0 79.3c-5.2-5-24-25-24-51.6C26 22.6 36.8 12 50 12s24 10.6 24 23.7c0 26.6-18.8 46.6-24 51.6zM50 20c-8.8 0-16 7.2-16 16s7.2 16 16 16 16-7.2 16-16-7.2-16-16-16zm0 28c-6.6 0-12-5.4-12-12s5.4-12 12-12 12 5.4 12 12-5.4 12-12 12z"></path></g><g><path fill="#00F" d="M1644-370v1684H-140V-370h1784m8-8H-148v1700h1800V-378z"></path></g></svg>
             <p className="text-lg text-black">
               527, Sanskriti Apartments, Sector 19B, Dwarka, Delhi - 110075 (India)
             </p>
             </div>
-            <div className="flex gap-3 items-center texxt-black">
+            <div className="flex gap-3 items-center text-black">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 height="24px"
@@ -76,7 +76,7 @@ export default function Footer() {
 
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
-            © 2024 Cook and More . All Rights Reserved.
+            © 2024 Cook and More. All Rights Reserved.
           </span>
         </div>
       </div>

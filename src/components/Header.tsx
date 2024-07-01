@@ -14,7 +14,7 @@ export default function Header() {
     <nav className="shadow z-50 sticky top-0 w-full md:h-20 bg-white items-center flex p-4">
       <div className="flex justify-between md:justify-evenly items-center w-full flex-wrap md:flex-nowrap">
         <Link to="/" className="flex items-center">
-          <h1 className="text-3xl md:text-5xl text-black  font-display font-bold cursor-pointer"><span className="text-blue-800">Cook</span> <span className="text-blue-800">and</span>  <span className="text-blue-800">More</span></h1>
+          <h1 className="text-3xl md:text-5xl text-black  font-display font-bold cursor-pointer"><span className="text-green-900 ">Cook and More</span></h1>
           
         </Link>
 

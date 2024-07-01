@@ -84,7 +84,7 @@ const Form = () => {
                     
                     className="leading-7 text-sm text-gray-600"
                   >
-                    Mobile
+                    Mobile Number
                   </label>
                   <input
                     type="text"
@@ -113,7 +113,7 @@ const Form = () => {
                     
                     className="leading-7 text-sm text-gray-600"
                   >
-                    Date
+                    Date Preference
                   </label>
                   <input
                     type="date"
