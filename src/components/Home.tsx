@@ -6,8 +6,8 @@ export default function Home() {
     <div className="overflow-hidden relative w-full flex flex-col items-center justify-center"> 
       <img className="md:block hidden top-24 w-full min-h-[80svh] bg-slate-400 h-3/4  flex-col align-middle justify-center" src="./hoome.jpg" />
       <img className="md:hidden block top-24 w-full min-h-[80svh] bg-slate-400 h-3/4  flex-col align-middle justify-center" src="./home1.jpg"/>
-        <h1 className="absolute md:top-20 top-72  text-center -translate-x-1/2 left-1/2  w-1/2 rounded-2xl p-8 text-2xl md:text-4xl font-bold text-white  "> Your Friendly Indian Hosts offer unique and special Cultural Exchange & Cooking Experience in Delhi</h1>
-      <div className="flex gap-8 my-5">
+        <h1 className="absolute md:top-20 sm:top-72 top-52 text-center -translate-x-1/2 left-1/2  w-1/2 rounded-2xl p-8 text-2xl md:text-4xl font-bold text-white  "> Your Friendly Indian Hosts offer unique and special Cultural Exchange & Cooking Experience in Delhi</h1>
+      <div className="flex md:flex-row flex-col gap-8 my-5">
         <div className="flex flex-col gap-1">
           <img src="https://static.wixstatic.com/media/364290_6af64d98de6549e3b74f6182bf2d4179~mv2.png/v1/fill/w_139,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/years.png" width={139} height={139} />
           <h1 className="text-2xl text-center font-semibold text-gray-800">5+ Years</h1>
@@ -28,7 +28,7 @@ export default function Home() {
 
       <br />
       <br /><br />
-      <h1 className="text-3xl mt-3 text-">Here is what our Guests say about us</h1>
+      <h1 className="text-3xl mt-3 p-4">Here is what our Guests say about us</h1>
       <Reviews/>
     </div>
     
