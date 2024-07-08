@@ -9,12 +9,12 @@ const About = () => {
         <div className="md:w-[40%] w-[80%]">
         <p className=" w-full  whitespace-break-spaces  text-lg">
         <span className=" font-bold">About the Hosts</span><br/>
-We, Roopak & Nidhi, are a married couple living in Delhi for over 15 years. We have been passionately hosting the Cultural Exchange & Cooking Experience on various platforms since July 2019. We take pride in showcasing our vibrant culture in the most simple manner while answering any questions they may have. As Indian natives, we're here to build long lasting relationships and bonds with our Guests and wish to help bring people closer together through shared experiences.
+        Welcome to our home! We're Roopak and Nidhi, a loving couple who've called Delhi home for over 15 years. Since 2019, we've been delighted to share our passion for Indian culture and cuisine with guests from around the world through our Cultural Exchange and Cooking Experience. We take great joy in showcasing the beauty of our heritage in a warm and approachable way, answering questions and fostering meaningful connections. Our goal is to build lasting relationships and bridges between cultures, one delicious meal and shared experience at a time.
 
           <br />
           <br/>
           <span className=" font-bold">About the Experience</span> <br/>
-We always offer the Experience at our beautiful home in Delhi (India). We are available 365 day a year for the Experience. The Experience shall be of 4 hours duration for Breakfast, Lunch & Dinner starting at 9 AM, 1 PM and 5 PM respectively. During the Experience, the Guests get a warm traditional welcome followed by 6-course meal cooking activity. A lot about Indian culture & customs is shared with the Guests during the Experience. We offer best hospitality on town to all our Guests. You can read more about the Experience at the links available on the "Book" Tab.
+          Join us in our lovely Delhi home for a unique and immersive experience! We welcome guests 365 days a year to share in our culture and cuisine. Our 4-hour experiences take place at 9 AM, 1 PM, and 5 PM for breakfast, lunch, and dinner respectively. Upon arrival, you'll receive a warm traditional welcome, followed by an engaging 6-course meal cooking activity. Throughout the experience, we'll share insights into Indian customs and traditions, providing a genuine taste of our hospitality. To learn more, please visit the links on our "Book" tab. We look forward to hosting you with the utmost warmth and care!
         </p>
         </div>
         
