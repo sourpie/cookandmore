@@ -8,6 +8,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Gallery from './components/Gallery'
 import Offerings from './components/Offerings'
+import Other from './components/Other'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -16,6 +17,7 @@ const router = createBrowserRouter(
       <Route path="about" element={<About />} />
       <Route path="offerings" element={<Offerings/>} />
       <Route path="gallery" element={<Gallery />} />
+      <Route path="other" element={<Other/>}/>
       <Route path="contact" element={<Contact />} />
     </Route>
   )
