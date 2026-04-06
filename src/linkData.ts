@@ -74,4 +74,14 @@ export const linkData = [
         title: "Book on Tripadvisor",
         href: "https://www.tripadvisor.in/AttractionProductReview-g304551-d24087616-Cook_Talk_Dine_more_with_local_Indian_Family_at_their_Beautiful_Home-New_Delhi_Nat.html",
     },
+    {
+        logo: "https://freepnglogo.com/images/all_img/1707657805expedia-icon-png.png",
+        title: "Book on Expedia (Option 1)",
+        href: "https://www.expedia.com/things-to-do/delhis-safest-ai-cooking-class-much-more-in-a-local-home.a47838548.activity-details?rid=553248621532739924&startDate=2026-04-06&endDate=2026-04-20",
+    },
+    {
+        logo: "https://freepnglogo.com/images/all_img/1707657805expedia-icon-png.png",
+        title: "Book on Expedia (Option 2)",
+        href: "https://www.expedia.ie/things-to-do/talk-to-locals-and-enjoy-home-cooked-3-course-meal-in-delhi.a48204713.activity-details?location=Rajouri&startDate=2026-04-06&endDate=2026-04-20",
+    },
 ]
